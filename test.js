@@ -18,5 +18,5 @@ while (guess !== targetNumber) {
     }  
 }
 
-const number = Math.random()
-console.log(number);
+
+user = {}
